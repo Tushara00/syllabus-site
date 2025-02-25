@@ -1,0 +1,11 @@
+{
+  "name": "syllabus-site",
+  "version": "1.0.0",
+  "description": "This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
